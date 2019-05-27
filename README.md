@@ -1,4 +1,4 @@
-# weui_demo
+# flutter_demo
 
 A new Flutter project.
 
